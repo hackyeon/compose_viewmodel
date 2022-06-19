@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "BasicStateCodelab"
+rootProject.name = "compose_viewModel"
 include ':app'
